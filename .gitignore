@@ -47,4 +47,4 @@ next-env.d.ts
 *.fig
 .DS_Store
 *.sketch
-photosnap-multi-page-website\.gitignore
+photosnap-multi-page-website
