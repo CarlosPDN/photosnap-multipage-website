@@ -41,9 +41,10 @@ yarn-error.log*
 next-env.d.ts
 
 
-#fe mentor
+# fe mentor
 
 *.xd
 *.fig
 .DS_Store
 *.sketch
+photosnap-multi-page-website\.gitignore
