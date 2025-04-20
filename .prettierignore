@@ -1,0 +1,10 @@
+.next
+next-env.d.ts
+node_modules
+yarn.loc
+public
+
+.vscode/launch.json
+tsconfig.json
+
+
